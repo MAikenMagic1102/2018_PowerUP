@@ -5,7 +5,6 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-// Dennis Terry
 package org.usfirst.frc.team1102.robot;
 
 import com.ctre.phoenix.motorcontrol.ControlMode;
